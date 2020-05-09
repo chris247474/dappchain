@@ -17,3 +17,5 @@ loom_public_key
 loom_mnemonic
 extdev_mnemonic
 mainnet_mnemonic
+
+.env
