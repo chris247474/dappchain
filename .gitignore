@@ -4,9 +4,6 @@ chaindata
 genesis.json
 loom
 
-# ignore for now but need to update scripts to copy abi json files to react-web/src instead
-/src
-
 /rinkeby_private_key
 /rinkeby_account
 /rinkeby_mnemonic
